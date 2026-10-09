@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f6f9;
+  color: #333333;
+}
+
+h1 {
+  color: #1a56a8;
+  text-align: center;
+}
+
+.cartao {
+  background-color: white;
+  padding: 20px;
+  border: 1px solid #cccccc;
+  border-radius: 8px;
+  margin: 20px auto;
+  max-width: 400px;
+}
+
+.destaque {
+  color: #0a8a6c;
+  font-weight: bold;
+}
