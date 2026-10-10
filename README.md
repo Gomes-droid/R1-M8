@@ -1,3 +1,0 @@
-# code
-#Terra Terra#
-xXXXXXXXXX
