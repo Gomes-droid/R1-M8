@@ -1,0 +1,14 @@
+/* Letra Cambria para toda a página */
+body {
+  font-family: Cambria, Georgia, serif;
+}
+
+/* Título "Formação SkodjiDigital" em azul */
+h1 {
+  color: #03c7ee;
+}
+
+/* Texto de baixo em verde */
+p {
+  color: #07f63f;
+}
